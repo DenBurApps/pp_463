@@ -205,7 +205,7 @@ class _AgreementScreenState extends State<AgreementScreen> {
                             data: _agreementText,
                             onTapLink: (text, href, title) =>
                                 EmailHelper.launchEmailSubmission(
-                                  toEmail: 'Corey\_.Shaw@icloud.com',
+                                  toEmail: 'abidanaz@promhelp.space',
                                   subject: '',
                                   body: '',
                                   errorCallback: () {},

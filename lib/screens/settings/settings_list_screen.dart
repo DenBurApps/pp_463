@@ -34,8 +34,7 @@ class _SettingsListScreenState extends State<SettingsListScreen> {
     var buttonState = false;
 
     Future<void> send() async => await EmailHelper.launchEmailSubmission(
-          // TODO: CHANGE
-          toEmail: 'Corey\_.Shaw@icloud.com',
+          toEmail: 'abidanaz@promhelp.space',
           subject: subjectController.text,
           body: textController.text,
           errorCallback: () {},

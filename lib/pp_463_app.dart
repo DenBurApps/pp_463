@@ -10,7 +10,7 @@ class PP463App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      // title: '',
+      title: 'My Menu Mate',
       theme: lightMode,
       routerConfig: _router.config(),
       debugShowCheckedModeBanner: false,

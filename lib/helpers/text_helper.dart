@@ -1,10 +1,9 @@
 class TextHelper {
-  // TODO: CHANGE
 
   static const privacy = '''
-  Privacy Policy for My RestoManager
+  Privacy Policy for My Menu Mate
 # **Privacy Policy**
-Last updated: July 11, 2024
+Last updated: October 28, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -17,9 +16,9 @@ For the purposes of this Privacy Policy:
 
 - **Account** means a unique account created for You to access our Service or parts of our Service.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- **Application** refers to My RestoManager, the software program provided by the Company.
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to My RestoManager.
-- **Country** refers to: Maryland, United States
+- **Application** refers to My Menu Mate, the software program provided by the Company.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to My Menu Mate.
+- **Country** refers to: Alaska, United States
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Personal Data** is any information that relates to an identified or identifiable individual.
 - **Service** refers to the Application.
@@ -110,14 +109,14 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## **Contact Us**
 If you have any questions about this Privacy Policy, You can contact us:
 
-- By email: Cassie\_.Holmes@icloud.com
+- By email: abidanaz@promhelp.space
   ''';
 
 
   static const terms = '''
-  Terms and Conditions for My RestoManager
+  Terms and Conditions for My Menu Mate
 ## **Terms and Conditions**
-Last updated: July 11, 2024
+Last updated: October 28, 2024
 
 Please read these terms and conditions carefully before using Our Service.
 ## **Interpretation and Definitions**
@@ -126,11 +125,11 @@ The words of which the initial letter is capitalized have meanings defined under
 ### **Definitions**
 For the purposes of these Terms and Conditions:
 
-- **Application** means the software program provided by the Company downloaded by You on any electronic device, named My RestoManager
+- **Application** means the software program provided by the Company downloaded by You on any electronic device, named My Menu Mate
 - **Application Store** means the digital distribution service operated and developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play Store) in which the Application has been downloaded.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- **Country** refers to: Maryland, United States
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to My RestoManager.
+- **Country** refers to: Alaska, United States
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to My Menu Mate.
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Service** refers to the Application.
 - **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
@@ -190,6 +189,6 @@ By continuing to access or use Our Service after those revisions become effectiv
 ## **Contact Us**
 If you have any questions about these Terms and Conditions, You can contact us:
 
-- By email: Cassie\_.Holmes@icloud.com
+- By email: abidanaz@promhelp.space
   ''';
 }

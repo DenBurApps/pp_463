@@ -39,6 +39,10 @@ dependencies:
 
   cupertino_icons: ^1.0.6
   google_fonts: ^6.2.1
+  flagsmith: ^6.0.0
+  webview_flutter: ^4.8.0
+  webview_flutter_android: ^3.16.8
+  webview_flutter_wkwebview: ^3.14.0
 
 dev_dependencies:
   flutter_test:
